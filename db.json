@@ -8,17 +8,17 @@
   {
    "id" : 0,
    "title" : "publication 0",
-   "body" : "hello"
+   "body" : "hello 0"
   },
   {
    "id" : 1,
    "title" : "publication 1",
-   "body" : "hello"
+   "body" : "hello 1"
   },
   {
    "id" : 2,
    "title" : "publication 2",
-   "body" : "hello"
+   "body" : "hello 2" 
   }
  
  ] 
@@ -27,61 +27,241 @@
 {
 "id": 1,
 "firstname" : "sofia",
- "lastname" : "ray" 
+ "lastname" : "ray" ,
+ "publications" : [
+  {
+   "id" : 3,
+   "title" : "publication 3",
+   "body" : "hello 3"
+  },
+  {
+   "id" : 4,
+   "title" : "publication 4",
+   "body" : "hello 4"
+  },
+  {
+   "id" : 5,
+   "title" : "publication 5",
+   "body" : "hello 5" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 2,
 "firstname" : "joel",
- "lastname" : "kotila" 
+ "lastname" : "kotila" ,
+ "publications" : [
+  {
+   "id" : 6,
+   "title" : "publication 6",
+   "body" : "hello 6"
+  },
+  {
+   "id" : 7,
+   "title" : "publication 7",
+   "body" : "hello 7"
+  },
+  {
+   "id" : 8,
+   "title" : "publication 8",
+   "body" : "hello 8" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 3,
 "firstname" : "nanna",
- "lastname" : "thomsen" 
+ "lastname" : "thomsen" ,
+ "publications" : [
+  {
+   "id" : 9,
+   "title" : "publication 9",
+   "body" : "hello 9"
+  },
+  {
+   "id" : 10,
+   "title" : "publication 10",
+   "body" : "hello 10"
+  },
+  {
+   "id" : 11,
+   "title" : "publication 11",
+   "body" : "hello 11" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 4,
 "firstname" : "mikail",
- "lastname" : "rekkedal" 
+ "lastname" : "rekkedal" ,
+ "publications" : [
+  {
+   "id" : 12,
+   "title" : "publication 12",
+   "body" : "hello 12"
+  },
+  {
+   "id" : 13,
+   "title" : "publication 13",
+   "body" : "hello 13"
+  },
+  {
+   "id" : 14,
+   "title" : "publication 14",
+   "body" : "hello 14" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 5,
 "firstname" : "angelica",
- "lastname" : "arnny" 
+ "lastname" : "arnny" ,
+ "publications" : [
+  {
+   "id" : 15,
+   "title" : "publication 15",
+   "body" : "hello 15"
+  },
+  {
+   "id" : 16,
+   "title" : "publication 16",
+   "body" : "hello 16"
+  },
+  {
+   "id" : 17,
+   "title" : "publication 17",
+   "body" : "hello 17" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 6,
 "firstname" : "isobel",
- "lastname" : "moore" 
+ "lastname" : "moore" ,
+ "publications" : [
+  {
+   "id" : 18,
+   "title" : "publication 18",
+   "body" : "hello 18"
+  },
+  {
+   "id" : 19,
+   "title" : "publication 19",
+   "body" : "hello 19"
+  },
+  {
+   "id" : 20,
+   "title" : "publication 20",
+   "body" : "hello 20" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 7,
 "firstname" : "ole",
- "lastname" : "bratli" 
+ "lastname" : "bratli" ,
+ "publications" : [
+  {
+   "id" : 24,
+   "title" : "publication 24",
+   "body" : "hello 24"
+  },
+  {
+   "id" : 25,
+   "title" : "publication 25",
+   "body" : "hello 25"
+  },
+  {
+   "id" : 26,
+   "title" : "publication 26",
+   "body" : "hello 26" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 8,
 "firstname" : "antonio",
- "lastname" : "blanco" 
+ "lastname" : "blanco" ,
+ "publications" : [
+  {
+   "id" : 27,
+   "title" : "publication 27",
+   "body" : "hello 27"
+  },
+  {
+   "id" : 28,
+   "title" : "publication 28",
+   "body" : "hello 28"
+  },
+  {
+   "id" : 29,
+   "title" : "publication 29",
+   "body" : "hello 29" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 9,
 "firstname" : "andreas",
- "lastname" : "pedersen" 
+ "lastname" : "pedersen" ,
+ "publications" : [
+  {
+   "id" : 30,
+   "title" : "publication 30",
+   "body" : "hello 30"
+  },
+  {
+   "id" : 31,
+   "title" : "publication 31",
+   "body" : "hello 31"
+  },
+  {
+   "id" : 32,
+   "title" : "publication 32",
+   "body" : "hello 32" 
+  }
+ 
+ ] 
 
 },
 {
 "id": 10,
 "firstname" : "aaya",
- "lastname" : "van arkel" 
+ "lastname" : "van arkel" ,
+ "publications" : [
+  {
+   "id" : 33,
+   "title" : "publication 33",
+   "body" : "hello 33"
+  },
+  {
+   "id" : 34,
+   "title" : "publication 34",
+   "body" : "hello 34"
+  },
+  {
+   "id" : 35,
+   "title" : "publication 35",
+   "body" : "hello 35" 
+  }
+ 
+ ] 
 
 } 
  ]}
