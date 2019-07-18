@@ -3,7 +3,25 @@
 {
 "id": 0,
 "firstname" : "nicholas",
- "lastname" : "ray" 
+ "lastname" : "ray" ,
+ "publications" : [
+  {
+   "id" : 0,
+   "title" : "publication 0",
+   "body" : "hello"
+  },
+  {
+   "id" : 1,
+   "title" : "publication 1",
+   "body" : "hello"
+  },
+  {
+   "id" : 2,
+   "title" : "publication 2",
+   "body" : "hello"
+  }
+ 
+ ] 
 
 },
 {
